@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "sfdx-demp",
+  "name": "sfdx-demo",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "56.0"
